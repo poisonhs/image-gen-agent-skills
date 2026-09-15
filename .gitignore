@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+zimage_output/
+*.tar.gz
+*.zip

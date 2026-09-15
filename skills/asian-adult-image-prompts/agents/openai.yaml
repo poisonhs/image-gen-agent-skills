@@ -1,0 +1,4 @@
+interface:
+  display_name: "Asian Adult Image Prompts"
+  short_description: "Compose adult-only Asian-inspired image prompts"
+  default_prompt: "Use $asian-adult-image-prompts to compose an adult-only Asian-inspired editorial image prompt."
